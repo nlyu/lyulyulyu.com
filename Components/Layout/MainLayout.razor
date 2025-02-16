@@ -1,0 +1,38 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <nav class="navbar navbar-expand bg-body-tertiary">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="">主页</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <div class="navbar-nav">
+                            <a class="nav-link active" aria-current="page" href="chai">病毒档案</a>
+                            <a class="nav-link" href="citydoodle">城市涂鸦</a>
+                            <a class="nav-link" href="apps">奇怪App</a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <a href="me" target="_blank">关于我</a>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>
