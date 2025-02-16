@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = lyulyulyu
 build_property.RootNamespace = lyulyulyu
-build_property.ProjectDir = C:\lyulyulyu.com\lyulyulyu\
+build_property.ProjectDir = C:\lyulyulyu.com\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\lyulyulyu.com\lyulyulyu
+build_property.MSBuildProjectDirectory = C:\lyulyulyu.com
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/App.razor]
+[C:/lyulyulyu.com/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Pages/Apps.razor]
+[C:/lyulyulyu.com/Components/Pages/Apps.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBcHBzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Pages/Chai.razor]
+[C:/lyulyulyu.com/Components/Pages/Chai.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGFpLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Pages/CityDoodle.razor]
+[C:/lyulyulyu.com/Components/Pages/CityDoodle.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaXR5RG9vZGxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Pages/Error.razor]
+[C:/lyulyulyu.com/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Pages/Home.razor]
+[C:/lyulyulyu.com/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Pages/Me.razor]
+[C:/lyulyulyu.com/Components/Pages/Me.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Pages/Thoughts.razor]
+[C:/lyulyulyu.com/Components/Pages/Thoughts.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUaG91Z2h0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Routes.razor]
+[C:/lyulyulyu.com/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/_Imports.razor]
+[C:/lyulyulyu.com/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Layout/MainLayout.razor]
+[C:/lyulyulyu.com/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-6xha86d5ib
 
-[C:/lyulyulyu.com/lyulyulyu/Components/Layout/NavMenu.razor]
+[C:/lyulyulyu.com/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-06f51msvb4
