@@ -1,0 +1,2548 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Chai/download/天花.pptx",
+      "AssetFile": "Chai/download/天花.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1421289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V5VIjguLfvc2AJC/NY45fw9tyFyW088DKg9YaUyG+mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V5VIjguLfvc2AJC/NY45fw9tyFyW088DKg9YaUyG+mo="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/天花.vqhm636ups.pptx",
+      "AssetFile": "Chai/download/天花.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1421289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V5VIjguLfvc2AJC/NY45fw9tyFyW088DKg9YaUyG+mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vqhm636ups"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V5VIjguLfvc2AJC/NY45fw9tyFyW088DKg9YaUyG+mo="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/download/天花.pptx"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/梅毒.pptx",
+      "AssetFile": "Chai/download/梅毒.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2209662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q7pvq8m03DULIWQAmyI+t4Eo6N1c2rFtqgfYCXb9pF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q7pvq8m03DULIWQAmyI+t4Eo6N1c2rFtqgfYCXb9pF8="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/梅毒.z6vv3a0bxt.pptx",
+      "AssetFile": "Chai/download/梅毒.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2209662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q7pvq8m03DULIWQAmyI+t4Eo6N1c2rFtqgfYCXb9pF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z6vv3a0bxt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q7pvq8m03DULIWQAmyI+t4Eo6N1c2rFtqgfYCXb9pF8="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/download/梅毒.pptx"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/狂犬病.n1i6kw2z5u.pptx",
+      "AssetFile": "Chai/download/狂犬病.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "897194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JWs4X9v1aSXHwnRmFHngHC7JkZyQAW0LA7nZitcHDDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n1i6kw2z5u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JWs4X9v1aSXHwnRmFHngHC7JkZyQAW0LA7nZitcHDDc="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/download/狂犬病.pptx"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/狂犬病.pptx",
+      "AssetFile": "Chai/download/狂犬病.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "897194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JWs4X9v1aSXHwnRmFHngHC7JkZyQAW0LA7nZitcHDDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JWs4X9v1aSXHwnRmFHngHC7JkZyQAW0LA7nZitcHDDc="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/甲流乙流.pptx",
+      "AssetFile": "Chai/download/甲流乙流.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "316949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H0i5DHEObCzKiCujQmxUURnQcUJzqIkVwask5+LOBUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H0i5DHEObCzKiCujQmxUURnQcUJzqIkVwask5+LOBUo="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/甲流乙流.xkbx7uarpj.pptx",
+      "AssetFile": "Chai/download/甲流乙流.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "316949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H0i5DHEObCzKiCujQmxUURnQcUJzqIkVwask5+LOBUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xkbx7uarpj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H0i5DHEObCzKiCujQmxUURnQcUJzqIkVwask5+LOBUo="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/download/甲流乙流.pptx"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/肺结核.7n4ljaf9ez.pptx",
+      "AssetFile": "Chai/download/肺结核.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w5VM1T6w629ienMvc7VgSmad49axuOwUqW1aDhwXvnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7n4ljaf9ez"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w5VM1T6w629ienMvc7VgSmad49axuOwUqW1aDhwXvnc="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/download/肺结核.pptx"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/肺结核.pptx",
+      "AssetFile": "Chai/download/肺结核.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w5VM1T6w629ienMvc7VgSmad49axuOwUqW1aDhwXvnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w5VM1T6w629ienMvc7VgSmad49axuOwUqW1aDhwXvnc="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/艾滋病.etc86ftcci.pptx",
+      "AssetFile": "Chai/download/艾滋病.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3763275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hts8Jrzku7m4Bvs3laqDc3nEVXLLgUQoENBQsMzY6WI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etc86ftcci"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hts8Jrzku7m4Bvs3laqDc3nEVXLLgUQoENBQsMzY6WI="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/download/艾滋病.pptx"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/艾滋病.pptx",
+      "AssetFile": "Chai/download/艾滋病.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3763275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hts8Jrzku7m4Bvs3laqDc3nEVXLLgUQoENBQsMzY6WI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hts8Jrzku7m4Bvs3laqDc3nEVXLLgUQoENBQsMzY6WI="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/非典.pptx",
+      "AssetFile": "Chai/download/非典.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"smnARj+BVPjir4oP6E+h7U26N6DYxHxMjSMPsEXmXSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-smnARj+BVPjir4oP6E+h7U26N6DYxHxMjSMPsEXmXSU="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/非典.qpnhcy7pog.pptx",
+      "AssetFile": "Chai/download/非典.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"smnARj+BVPjir4oP6E+h7U26N6DYxHxMjSMPsEXmXSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qpnhcy7pog"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-smnARj+BVPjir4oP6E+h7U26N6DYxHxMjSMPsEXmXSU="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/download/非典.pptx"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/鼠疫.pptx",
+      "AssetFile": "Chai/download/鼠疫.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3048295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YTxtwfobnQMx5Tidq3OCxggMkC4FciYlrfh4kzveiUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YTxtwfobnQMx5Tidq3OCxggMkC4FciYlrfh4kzveiUA="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/download/鼠疫.xo2nfs3tcb.pptx",
+      "AssetFile": "Chai/download/鼠疫.pptx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3048295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YTxtwfobnQMx5Tidq3OCxggMkC4FciYlrfh4kzveiUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xo2nfs3tcb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YTxtwfobnQMx5Tidq3OCxggMkC4FciYlrfh4kzveiUA="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/download/鼠疫.pptx"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/乙肝.png",
+      "AssetFile": "Chai/乙肝.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "724590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OhPMmNGlviezleG3qC93ZxzEVpEH5+Z+4xo2jdN9GZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:07:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OhPMmNGlviezleG3qC93ZxzEVpEH5+Z+4xo2jdN9GZY="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/乙肝.ylvrk8mc0p.png",
+      "AssetFile": "Chai/乙肝.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "724590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OhPMmNGlviezleG3qC93ZxzEVpEH5+Z+4xo2jdN9GZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:07:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylvrk8mc0p"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OhPMmNGlviezleG3qC93ZxzEVpEH5+Z+4xo2jdN9GZY="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/乙肝.png"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/天花.4h7cjn6jik.png",
+      "AssetFile": "Chai/天花.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2H8Ply48h1JItaGpVH0zIpiIL2SHI0VX8R1+c5ByRWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:08:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4h7cjn6jik"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2H8Ply48h1JItaGpVH0zIpiIL2SHI0VX8R1+c5ByRWo="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/天花.png"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/天花.png",
+      "AssetFile": "Chai/天花.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2H8Ply48h1JItaGpVH0zIpiIL2SHI0VX8R1+c5ByRWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:08:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2H8Ply48h1JItaGpVH0zIpiIL2SHI0VX8R1+c5ByRWo="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/梅毒.png",
+      "AssetFile": "Chai/梅毒.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "680927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pe3KcRuGJt35YMOcEA+zYd3vYQeAjZ9fV05u8zEqJIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:06:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pe3KcRuGJt35YMOcEA+zYd3vYQeAjZ9fV05u8zEqJIw="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/梅毒.rie953lg66.png",
+      "AssetFile": "Chai/梅毒.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "680927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pe3KcRuGJt35YMOcEA+zYd3vYQeAjZ9fV05u8zEqJIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:06:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rie953lg66"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pe3KcRuGJt35YMOcEA+zYd3vYQeAjZ9fV05u8zEqJIw="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/梅毒.png"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/狂犬病.fl9bwwi8wi.png",
+      "AssetFile": "Chai/狂犬病.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "734655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U8XJd0PjWZAWSnEahGJgeN7UF1rzWVJCWX9HbMJ3prg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:07:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fl9bwwi8wi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U8XJd0PjWZAWSnEahGJgeN7UF1rzWVJCWX9HbMJ3prg="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/狂犬病.png"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/狂犬病.png",
+      "AssetFile": "Chai/狂犬病.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "734655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U8XJd0PjWZAWSnEahGJgeN7UF1rzWVJCWX9HbMJ3prg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:07:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U8XJd0PjWZAWSnEahGJgeN7UF1rzWVJCWX9HbMJ3prg="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/甲流乙流.png",
+      "AssetFile": "Chai/甲流乙流.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "596383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gsjeBD4KFj+yDmqksWBOcVR5RWN3hiYs+CojTrdN7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:05:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gsjeBD4KFj+yDmqksWBOcVR5RWN3hiYs+CojTrdN7M="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/甲流乙流.q24a9ihat9.png",
+      "AssetFile": "Chai/甲流乙流.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "596383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gsjeBD4KFj+yDmqksWBOcVR5RWN3hiYs+CojTrdN7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:05:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q24a9ihat9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gsjeBD4KFj+yDmqksWBOcVR5RWN3hiYs+CojTrdN7M="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/甲流乙流.png"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/百日咳.g2mrewezap.png",
+      "AssetFile": "Chai/百日咳.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eJai7Cnt+BJPgXcOplU5VWifQ7j7tPk0RnSEfTDzXEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:06:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g2mrewezap"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eJai7Cnt+BJPgXcOplU5VWifQ7j7tPk0RnSEfTDzXEs="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/百日咳.png"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/百日咳.png",
+      "AssetFile": "Chai/百日咳.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eJai7Cnt+BJPgXcOplU5VWifQ7j7tPk0RnSEfTDzXEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:06:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eJai7Cnt+BJPgXcOplU5VWifQ7j7tPk0RnSEfTDzXEs="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/肺结核.png",
+      "AssetFile": "Chai/肺结核.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OYpJJ1avjr5mQoojSBa3s7zIj0uPEB8VElZsOG7Eojw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:07:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OYpJJ1avjr5mQoojSBa3s7zIj0uPEB8VElZsOG7Eojw="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/肺结核.xildsw0jvc.png",
+      "AssetFile": "Chai/肺结核.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OYpJJ1avjr5mQoojSBa3s7zIj0uPEB8VElZsOG7Eojw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:07:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xildsw0jvc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OYpJJ1avjr5mQoojSBa3s7zIj0uPEB8VElZsOG7Eojw="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/肺结核.png"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/艾滋病.hv26xuedqe.png",
+      "AssetFile": "Chai/艾滋病.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "718364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DW3PqfC8PZ4wTbbyFjM1ArUtdj3KcTHQjn+y8FP0d38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:08:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hv26xuedqe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DW3PqfC8PZ4wTbbyFjM1ArUtdj3KcTHQjn+y8FP0d38="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/艾滋病.png"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/艾滋病.png",
+      "AssetFile": "Chai/艾滋病.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "718364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DW3PqfC8PZ4wTbbyFjM1ArUtdj3KcTHQjn+y8FP0d38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:08:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DW3PqfC8PZ4wTbbyFjM1ArUtdj3KcTHQjn+y8FP0d38="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/非典.ff4iyo0ega.png",
+      "AssetFile": "Chai/非典.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "685148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdfsJnDP6BP0ut7p462nuqVvs9Ro8AdI31XkeaghVaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:08:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ff4iyo0ega"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdfsJnDP6BP0ut7p462nuqVvs9Ro8AdI31XkeaghVaI="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/非典.png"
+        }
+      ]
+    },
+    {
+      "Route": "Chai/非典.png",
+      "AssetFile": "Chai/非典.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "685148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdfsJnDP6BP0ut7p462nuqVvs9Ro8AdI31XkeaghVaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:08:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdfsJnDP6BP0ut7p462nuqVvs9Ro8AdI31XkeaghVaI="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/鼠疫.png",
+      "AssetFile": "Chai/鼠疫.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "768819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIQd9jRuRDAxv8ncCooE0mFNbWsvcG8ainkEz1qUTaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:05:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIQd9jRuRDAxv8ncCooE0mFNbWsvcG8ainkEz1qUTaw="
+        }
+      ]
+    },
+    {
+      "Route": "Chai/鼠疫.sanernarfd.png",
+      "AssetFile": "Chai/鼠疫.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "768819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIQd9jRuRDAxv8ncCooE0mFNbWsvcG8ainkEz1qUTaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:05:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sanernarfd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIQd9jRuRDAxv8ncCooE0mFNbWsvcG8ainkEz1qUTaw="
+        },
+        {
+          "Name": "label",
+          "Value": "Chai/鼠疫.png"
+        }
+      ]
+    },
+    {
+      "Route": "CityDoodle/上海.do90wtg2sp.jpg",
+      "AssetFile": "CityDoodle/上海.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2413779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A5vZ3/L6/uHDHnVWDN9Uq0oGj6y6vRuT8laRhrF7/T4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:43:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "do90wtg2sp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A5vZ3/L6/uHDHnVWDN9Uq0oGj6y6vRuT8laRhrF7/T4="
+        },
+        {
+          "Name": "label",
+          "Value": "CityDoodle/上海.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "CityDoodle/上海.jpg",
+      "AssetFile": "CityDoodle/上海.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2413779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A5vZ3/L6/uHDHnVWDN9Uq0oGj6y6vRuT8laRhrF7/T4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:43:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A5vZ3/L6/uHDHnVWDN9Uq0oGj6y6vRuT8laRhrF7/T4="
+        }
+      ]
+    },
+    {
+      "Route": "CityDoodle/广州.j5x7k6b9gy.png",
+      "AssetFile": "CityDoodle/广州.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3585980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQB8YULBoeeU96AYCBUYbvS97TX/0iGGrze7oGLVWgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:49:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5x7k6b9gy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQB8YULBoeeU96AYCBUYbvS97TX/0iGGrze7oGLVWgU="
+        },
+        {
+          "Name": "label",
+          "Value": "CityDoodle/广州.png"
+        }
+      ]
+    },
+    {
+      "Route": "CityDoodle/广州.png",
+      "AssetFile": "CityDoodle/广州.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3585980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQB8YULBoeeU96AYCBUYbvS97TX/0iGGrze7oGLVWgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:49:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQB8YULBoeeU96AYCBUYbvS97TX/0iGGrze7oGLVWgU="
+        }
+      ]
+    },
+    {
+      "Route": "CityDoodle/西安.esqs81hzfg.jpg",
+      "AssetFile": "CityDoodle/西安.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2764592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yg2iU6Yebibfj9HbqZUvp03Bf4t/27igi5c+Snd+zyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:44:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "esqs81hzfg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yg2iU6Yebibfj9HbqZUvp03Bf4t/27igi5c+Snd+zyQ="
+        },
+        {
+          "Name": "label",
+          "Value": "CityDoodle/西安.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "CityDoodle/西安.jpg",
+      "AssetFile": "CityDoodle/西安.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2764592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yg2iU6Yebibfj9HbqZUvp03Bf4t/27igi5c+Snd+zyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:44:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yg2iU6Yebibfj9HbqZUvp03Bf4t/27igi5c+Snd+zyQ="
+        }
+      ]
+    },
+    {
+      "Route": "CityDoodle/重庆.2f1mmdfo2x.png",
+      "AssetFile": "CityDoodle/重庆.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2574054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UjUkLopn8q3CNC83BBUAgAJb9xxAshO+2mmAOqHFcd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:44:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2f1mmdfo2x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UjUkLopn8q3CNC83BBUAgAJb9xxAshO+2mmAOqHFcd8="
+        },
+        {
+          "Name": "label",
+          "Value": "CityDoodle/重庆.png"
+        }
+      ]
+    },
+    {
+      "Route": "CityDoodle/重庆.png",
+      "AssetFile": "CityDoodle/重庆.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2574054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UjUkLopn8q3CNC83BBUAgAJb9xxAshO+2mmAOqHFcd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:44:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UjUkLopn8q3CNC83BBUAgAJb9xxAshO+2mmAOqHFcd8="
+        }
+      ]
+    },
+    {
+      "Route": "Home/chai-frontpage.f5uqor3y9z.png",
+      "AssetFile": "Home/chai-frontpage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3dBfpZSjbQSR6hgpsUlXz2N09igvrHOlJUdhE1RHmNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:40:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f5uqor3y9z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3dBfpZSjbQSR6hgpsUlXz2N09igvrHOlJUdhE1RHmNs="
+        },
+        {
+          "Name": "label",
+          "Value": "Home/chai-frontpage.png"
+        }
+      ]
+    },
+    {
+      "Route": "Home/chai-frontpage.png",
+      "AssetFile": "Home/chai-frontpage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3dBfpZSjbQSR6hgpsUlXz2N09igvrHOlJUdhE1RHmNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:40:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3dBfpZSjbQSR6hgpsUlXz2N09igvrHOlJUdhE1RHmNs="
+        }
+      ]
+    },
+    {
+      "Route": "Home/citydoodle-frontpage.7r0865pzaz.png",
+      "AssetFile": "Home/citydoodle-frontpage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "422864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0//1GIZE6FpB+ukMAjfvLbWvQjhuXu68BBpkT+idHqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:36:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7r0865pzaz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0//1GIZE6FpB+ukMAjfvLbWvQjhuXu68BBpkT+idHqQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Home/citydoodle-frontpage.png"
+        }
+      ]
+    },
+    {
+      "Route": "Home/citydoodle-frontpage.png",
+      "AssetFile": "Home/citydoodle-frontpage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "422864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0//1GIZE6FpB+ukMAjfvLbWvQjhuXu68BBpkT+idHqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:36:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0//1GIZE6FpB+ukMAjfvLbWvQjhuXu68BBpkT+idHqQ="
+        }
+      ]
+    },
+    {
+      "Route": "Home/shicheng.f9zmr7bn8v.png",
+      "AssetFile": "Home/shicheng.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A0Pg/fwOETMlWb2abrN8pbQa3RNI3INzuT9gfIQ6Syw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:57:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9zmr7bn8v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A0Pg/fwOETMlWb2abrN8pbQa3RNI3INzuT9gfIQ6Syw="
+        },
+        {
+          "Name": "label",
+          "Value": "Home/shicheng.png"
+        }
+      ]
+    },
+    {
+      "Route": "Home/shicheng.png",
+      "AssetFile": "Home/shicheng.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A0Pg/fwOETMlWb2abrN8pbQa3RNI3INzuT9gfIQ6Syw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:57:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A0Pg/fwOETMlWb2abrN8pbQa3RNI3INzuT9gfIQ6Syw="
+        }
+      ]
+    },
+    {
+      "Route": "Home/xhs-lnc.4q4hspuh9u.png",
+      "AssetFile": "Home/xhs-lnc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPL6JMOFraJrPg6JztZ3ImaM0tPJXxEYcFqkaKnLUgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:35:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4q4hspuh9u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPL6JMOFraJrPg6JztZ3ImaM0tPJXxEYcFqkaKnLUgQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Home/xhs-lnc.png"
+        }
+      ]
+    },
+    {
+      "Route": "Home/xhs-lnc.png",
+      "AssetFile": "Home/xhs-lnc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPL6JMOFraJrPg6JztZ3ImaM0tPJXxEYcFqkaKnLUgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 01:35:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPL6JMOFraJrPg6JztZ3ImaM0tPJXxEYcFqkaKnLUgQ="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YI4vMMx/05kEsrElWFc5kZHanZ9OriqpVNSookPE3bA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:34:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YI4vMMx/05kEsrElWFc5kZHanZ9OriqpVNSookPE3bA="
+        }
+      ]
+    },
+    {
+      "Route": "app.oai3334009.css",
+      "AssetFile": "app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YI4vMMx/05kEsrElWFc5kZHanZ9OriqpVNSookPE3bA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 00:34:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oai3334009"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YI4vMMx/05kEsrElWFc5kZHanZ9OriqpVNSookPE3bA="
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "bootstrap/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 21:58:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "bootstrap/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 21:58:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "bootstrap/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 07:21:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "bootstrap/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 07:21:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 07:21:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 07:21:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "lyulyulyu.scnqah9sal.styles.css",
+      "AssetFile": "lyulyulyu.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLYsfi4Aefc0f9tmqWHoCrXGhrvxJA7YKSXDa6OhLlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 02:39:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "scnqah9sal"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLYsfi4Aefc0f9tmqWHoCrXGhrvxJA7YKSXDa6OhLlw="
+        },
+        {
+          "Name": "label",
+          "Value": "lyulyulyu.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "lyulyulyu.styles.css",
+      "AssetFile": "lyulyulyu.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLYsfi4Aefc0f9tmqWHoCrXGhrvxJA7YKSXDa6OhLlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 02:39:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLYsfi4Aefc0f9tmqWHoCrXGhrvxJA7YKSXDa6OhLlw="
+        }
+      ]
+    }
+  ]
+}
