@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Chai\" />
+    <Folder Include="wwwroot\CityDoodle\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Chai\南宁街头❗️新地标_1_冰冰野生摄影_来自小红书网页版.jpg" />
+    <None Include="wwwroot\Chai\南宁街头❗️新地标_7_冰冰野生摄影_来自小红书网页版.jpg" />
+    <None Include="wwwroot\Chai\南宁街头❗️新地标_mtkxl__来自小红书网页版.jpg" />
+    <None Include="wwwroot\Chai\南宁街头❗️新地标_细细粒_来自小红书网页版.jpg" />
+  </ItemGroup>
+
+</Project>

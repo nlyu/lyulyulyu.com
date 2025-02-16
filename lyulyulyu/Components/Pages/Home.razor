@@ -1,0 +1,48 @@
+﻿@page "/"
+@using lyulyulyu.Components.Resources
+@inject IChaiManager chaiManager
+@inject ICityDoodleManager cityDoodleManager
+
+<PageTitle>Home</PageTitle>
+
+<div class="alert alert-success" role="alert">
+    <h4 class="alert-heading">WOOHOO! YOU found ME! 欢迎来到LYU的小站！</h4>
+    <p>一切都是免费下载的。把所有作品存到这一个网站，是为了从各平台引流来着，然后可以靠下面的小广告，赚点奶茶钱😁 This site is my memory dump. All my works/projects can be found from the nav bar.</p>
+    <hr>
+    <p class="mb-0">网站比较简陋，工作太忙了以后会继续修缮的</p>
+</div>
+
+<div class="row">
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h1 class="card-title">欢迎</h1>
+            <h6 class="card-subtitle mb-2 text-body-secondary">2025 Feb 15th</h6>
+            <p class="card-text">来自小红书，或者知乎的朋友可以在上面的导航栏找到资源。有什么问题可以邮箱/小红书私信我。</p>
+            <p>邮箱 Email: lnc0519@gmail.com</p>
+            <a href="https://www.linkedin.com/in/lyulyulyu/" class="btn btn-light">领英 | LinkedIn</a>
+            <a href="https://pin.it/2Tlr5VM5N" class="btn btn-light">画 | Art</a>
+            <a href="https://www.zhihu.com/people/lu-nuo-cheng" class="btn btn-light">知乎 | Zhihu</a>
+        </div>
+    </div>
+
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="Home/chai-frontpage.png" alt="Card image cap">
+        <div class="card-body">
+            <h2 class="card-title">病毒档案系列</h2>
+            <h6 class="card-subtitle mb-2 text-body-secondary">PPT资源</h6>
+            <p>小红书ID: 想活到100岁的小柴</p>
+            <p>资源数量 @chaiManager.GetImageCount()</p>
+            <a href="chai" class="btn btn-light">点击进入</a>
+        </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="Home/citydoodle-frontpage.png" alt="Card image cap">
+        <div class="card-body">
+            <h2 class="card-title">城市涂鸦系列</h2>
+            <h6 class="card-subtitle mb-2 text-body-secondary">图片资源</h6>
+            <p>小红书ID: lyulyulyu</p>
+            <p>资源数量 @cityDoodleManager.GetImageCount()</p>
+            <a href="citydoodle" class="btn btn-light">点击进入</a>
+        </div>
+    </div>
+</div>
