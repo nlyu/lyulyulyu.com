@@ -18,4 +18,8 @@
     <None Include="wwwroot\Chai\南宁街头❗️新地标_细细粒_来自小红书网页版.jpg" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
 </Project>

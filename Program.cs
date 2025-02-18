@@ -6,10 +6,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
-
+builder.Services.AddSingleton<ViewCounter>();
+builder.Services.AddHostedService(services => services.GetRequiredService<ViewCounter>());
 builder.Services.AddScoped<IChaiManager, ChaiManager>();
 builder.Services.AddScoped<ICityDoodleManager, CityDoodleManager>();
-
 
 var app = builder.Build();
 
