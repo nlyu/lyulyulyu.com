@@ -2,6 +2,7 @@
 @using lyulyulyu.Components.Resources
 @inject IChaiManager chaiManager
 @inject ICityDoodleManager cityDoodleManager
+@inject ViewCounter ViewCounter
 
 <PageTitle>Home</PageTitle>
 
@@ -46,3 +47,11 @@
         </div>
     </div>
 </div>
+
+@code {
+
+    protected override void OnInitialized() // = On Page Load
+    {
+        ViewCounter.viewCount.AllView++;
+    }
+}
