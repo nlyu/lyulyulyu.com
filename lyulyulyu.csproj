@@ -12,13 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\Chai\南宁街头❗️新地标_1_冰冰野生摄影_来自小红书网页版.jpg" />
-    <None Include="wwwroot\Chai\南宁街头❗️新地标_7_冰冰野生摄影_来自小红书网页版.jpg" />
-    <None Include="wwwroot\Chai\南宁街头❗️新地标_mtkxl__来自小红书网页版.jpg" />
-    <None Include="wwwroot\Chai\南宁街头❗️新地标_细细粒_来自小红书网页版.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="Azure.Monitor.OpenTelemetry.AspNetCore" Version="1.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 

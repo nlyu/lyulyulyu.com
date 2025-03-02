@@ -22,20 +22,20 @@ main {
     align-items: center;
 }
 
-    .top-row ::deep a, .top-row ::deep .btn-link {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-        text-decoration: none;
-    }
+.top-row ::deep a, .top-row ::deep .btn-link {
+    white-space: nowrap;
+    margin-left: 0.1rem;
+    text-decoration: none;
+}
 
-    .top-row ::deep a:hover, .top-row ::deep .btn-link:hover {
-        text-decoration: underline;
-    }
+.top-row ::deep a:hover, .top-row ::deep .btn-link:hover {
+    text-decoration: underline;
+}
 
-    .top-row ::deep a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
+.top-row ::deep a:first-child {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 
 @media (max-width: 640.98px) {
     .top-row {
@@ -53,7 +53,8 @@ main {
     }
 
     .sidebar {
-        width: 20%;
+        min-width: 250px;
+        width: 20vw;
         height: 100vh;
         position: sticky;
         top: 0;
@@ -77,6 +78,29 @@ main {
     }
 }
 
+@media (max-width: 641px) {
+    .page {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%; /* Full width on mobile */
+        height: auto; /* Let content determine height */
+        position: relative; /* Remove sticky behavior */
+    }
+
+    .top-row {
+        position: relative;
+        top: auto;
+        z-index: auto;
+    }
+
+    .top-row, article {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+}
+
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
@@ -89,9 +113,9 @@ main {
     z-index: 1000;
 }
 
-    #blazor-error-ui .dismiss {
-        cursor: pointer;
-        position: absolute;
-        right: 0.75rem;
-        top: 0.5rem;
-    }
+#blazor-error-ui .dismiss {
+    cursor: pointer;
+    position: absolute;
+    right: 0.75rem;
+    top: 0.5rem;
+}
