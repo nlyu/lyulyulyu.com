@@ -1,5 +1,6 @@
 using lyulyulyu.Components;
 using lyulyulyu.Components.Resources;
+using Azure.Monitor.OpenTelemetry.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,14 @@ builder.Services.AddSingleton<ViewCounter>();
 builder.Services.AddHostedService(services => services.GetRequiredService<ViewCounter>());
 builder.Services.AddScoped<IChaiManager, ChaiManager>();
 builder.Services.AddScoped<ICityDoodleManager, CityDoodleManager>();
+
+// App Insights
+var connectionString = builder.Configuration["ApplicationInsights:ConnectionString"];
+builder.Services.AddOpenTelemetry().UseAzureMonitor((options =>
+{
+    options.ConnectionString = connectionString; // Use the connection string
+}));
+
 
 var app = builder.Build();
 
