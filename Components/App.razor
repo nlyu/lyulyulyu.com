@@ -15,6 +15,45 @@
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1461233971067257"
             crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        var appInsights = window.appInsights || function (a) {
+          function b(a) {
+            c[a] = function () {
+              var b = arguments;
+              c.queue.push(function () {
+                c[a].apply(c, b);
+              });
+            };
+          }
+          var c = { config: a }, d = document, e = window;
+          setTimeout(function () {
+            var b = d.createElement("script");
+            b.src = a.url || "https://js.monitor.azure.com/scripts/b/ai.3.gbl.min.js";
+            d.getElementsByTagName("head")[0].appendChild(b);
+          });
+          c.queue = [];
+          for (
+            var f = [
+              "trackEvent",
+              "trackException",
+              "trackMetric",
+              "trackPageView",
+              "trackDependencyData",
+              "setAuthenticatedUserContext",
+              "clearAuthenticatedUserContext",
+            ];
+            f.length;
+          )
+            b(f.pop());
+          return c;
+        }({
+          connectionString: "InstrumentationKey=b7e53614-b8ec-4f46-b033-af6c659270eb;IngestionEndpoint=https://eastasia-0.in.applicationinsights.azure.com/;LiveEndpoint=https://eastasia.livediagnostics.monitor.azure.com/;ApplicationId=d02e0d32-9542-4dc9-b381-05fd1cc913b3",
+        });
+
+        window.appInsights = appInsights;
+        appInsights.trackPageView();
+    </script>
+
     <HeadOutlet />
 </head>
 
